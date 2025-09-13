@@ -11,7 +11,7 @@ management faced challenges in understanding:
 
 To solve this, I developed an interactive Excel dashboard that consolidates sales, product, and customer data into a single, easy-to-navigate view, enabling data-driven decisions.
 
-![](https://github.com/Dhreetisha-Bagchi/Air-Bnb-EDA/blob/main/New%20York%20City%20Brooklyn%20Bridge.jpg)
+![](https://github.com/Dhreetisha-Bagchi/Coffee-Sales-Dashboard/blob/main/Sales%20Dasboard.png)
 
 # 🎯 Project Objectives
 - Analyze sales performance across time, countries, and products.
